@@ -1,0 +1,33 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pandpdesign.ca" resolutions="1x" timestamp="1503050079793">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="158043581" ref="index"/>
+    <file name="untitled-5.css" crc="182532298" ref="untitled-5"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-5"/>
+    <file name="museutils.js" crc="4232573551" ref="index:untitled-5"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-5"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:untitled-5"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:untitled-5"/>
+    <file name="require.js" crc="4234670167" ref="index:untitled-5"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u1301.php" crc="271243749" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo_final.svg" crc="56328159" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_final_poster_.png" crc="3842095800" ref="index"/>
+    <file name="arrow.svg" crc="4097888405" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrow_poster_.png" crc="3976422477" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3778067893" seo="true" mt="1503050023467" redirect="true"/>
+  <file name="untitled-5.html" crc="3948351852" seo="true" mt="1503047386336" redirect="true"/>
+</manifest>
